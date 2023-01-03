@@ -14,6 +14,9 @@ I am a motivated self-taught Front-End Developer and a chess enthusiast. I am al
 
  ![Engagement](https://user-images.githubusercontent.com/87925630/210402743-1c31cb92-50fc-4a51-86ff-05b6c002399a.gif) I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
  
+ ![star git](https://user-images.githubusercontent.com/87925630/210424769-731ce6a6-72c2-4d94-a3db-b15ddaf2c14f.gif) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inspiration&size=40&pause=1000&color=FFFFFF&width=435&height=70&lines=My+GITHUB+Analysis)](https://git.io/typing-svg)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Marcocholla01)](https://github.com/Marcocholla01/github-readme-activity-graph)
+ 
 
 <!--
 **Marcocholla01/Marcocholla01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +31,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
+![star git](https://user-images.githubusercontent.com/87925630/210424769-731ce6a6-72c2-4d94-a3db-b15ddaf2c14f.gif)
