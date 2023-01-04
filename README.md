@@ -20,6 +20,9 @@ I am a motivated self-taught Front-End Developer and a chess enthusiast. I am al
  [![Marcocholla's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Marcocholla01&theme=nightowl)](https://github.com/Marcocholla01/github-readme-activity-graph)
 ![Engagement](https://user-images.githubusercontent.com/87925630/210402743-1c31cb92-50fc-4a51-86ff-05b6c002399a.gif) I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 <hr>
+
+<h1 align ="center"; underline="dotted"> Thanks.... Jah Bless🙏🙏🙏</h1>
+
  <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcocholla01&theme=nightowl&repo=github-readme-stats)](https://github.com/Marcocholla01/github-readme-stats)
 
 <!--
