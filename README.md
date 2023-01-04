@@ -1,3 +1,4 @@
+ 
 ######  <p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=East+Sea+Dokdo&size=42&pause=1000&color=cyan&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+PAUL)](https://git.io/typing-svg) </p>
 
 ![prof01](https://user-images.githubusercontent.com/87925630/210420109-d789dbd8-17cf-4025-8cf2-40bca8e49955.gif)
@@ -13,7 +14,8 @@ I am a motivated self-taught Front-End Developer and a chess enthusiast. I am al
  
  <img src="https://github.com/Marcocholla01/marcocholla/blob/main/personal%20design/img/star%20git.gif">My GitHub Analisis<img>
  #### <h2>Overall Github Contributions </h2>
- ![Marcochollas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcocholla01&theme=nightowl&show_icons=true)
+ [![Marcochollas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcocholla01&theme=nightowl&show_icons=true&include_all_commits)](https://github.com/Marcocholla01)
+
  #### <h2>General Language Statistics</h2>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcocholla01&layout=demo&theme=nightowl)](https://github.com/Marcocholla01/github-readme-stats)
  #### <h2>My Last 30 days Contribution Graph</h2>
@@ -21,9 +23,10 @@ I am a motivated self-taught Front-End Developer and a chess enthusiast. I am al
 ![Engagement](https://user-images.githubusercontent.com/87925630/210402743-1c31cb92-50fc-4a51-86ff-05b6c002399a.gif) I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 <hr>
 
-<h1 align ="center"; underline="dotted"> Thanks.... Jah Bless🙏🙏🙏</h1>
-
- <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcocholla01&theme=nightowl&repo=github-readme-stats)](https://github.com/Marcocholla01/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcocholla01&theme=nightowl&repo=Enjoy)](https://github.com/Marcocholla01/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcocholla01&repo=Enjoy&theme=nightowl)](https://github.com/Marcocholla01)
+ 
+ <h1 align ="center"; underline="dotted"> Thanks.... Jah Bless🙏🙏🙏</h1>
 
 <!--
 **Marcocholla01/Marcocholla01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
