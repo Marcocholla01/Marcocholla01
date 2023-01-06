@@ -14,7 +14,7 @@ I am a motivated self-taught Front-End Developer and a chess enthusiast. I am al
  
  <img src="https://github.com/Marcocholla01/marcocholla/blob/main/personal%20design/img/star%20git.gif">My GitHub Analisis<img>
  #### <h2>Overall Github Contributions </h2>
- [![Marcochollas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcocholla01&theme=nightowl&show_icons=true&include_all_commits=false&hide_rank=false)](https://github.com/Marcocholla01)
+ 
 
  #### <h2>General Language Statistics</h2>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcocholla01&layout=demo&theme=nightowl)](https://github.com/Marcocholla01/github-readme-stats)
