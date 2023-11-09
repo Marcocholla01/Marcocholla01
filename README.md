@@ -9,18 +9,18 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Luacidia+Caligraphy&pause=1000&width=450&lines=I'm+a+Junior+Front-End+Software+Developer;Self+driven+UI%2FUX+Designer;I'm+passionate+and+creative;1%2B+Year(s)+of+experience;Currently+on+studing;Available+for+Hire)](https://git.io/typing-svg)</p>
  <hr>
 
-Hi, I'm Paul Ocholla, a Front-End Developer, Flutter UI/UX for apps developer and a Junior UI/UX Designer.
-I am a motivated self-taught Front-End Developer and a chess enthusiast. I am also an open-source enthusiast. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
+Hi, I'm Paul Ocholla, a Junior Front-End React Developer, Flutter and React-Native UI Developer and a Junior UI/UX Designer , .
+I am a motivated self-taught Front-End Developer , NodeJs Developer and a football enthusiast. I am also an open-source and Tech enthusiast. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 <hr>
  
- <img src="https://github.com/Marcocholla01/marcocholla/blob/main/personal%20design/img/star%20git.gif">My GitHub Analisis<img>
+ <img src="https://github.com/Marcocholla01/marcocholla/blob/main/personal%20design/img/star%20git.gif" >My GitHub Statistical Data<img>
  #### <h2>Overall Github Contributions </h2>
  [![Marcochollas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcocholla01&theme=nightowl&show_icons=true&include_all_commits=false&hide_rank=false)](https://github.com/Marcocholla01)
 
  #### <h2>General Language Statistics</h2>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcocholla01&layout=demo&theme=nightowl)](https://github.com/Marcocholla01/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcocholla01&size_weight=0.5&count_weight=0.5&theme=nightowl)](https://github.com/Marcocholla01/github-readme-stats)
  #### <h2>My Last 30 days Contribution Graph</h2>
- [![Marcocholla's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Marcocholla01&theme=nightowl)](https://github.com/Marcocholla01/github-readme-activity-graph)
+ [![Marcocholla01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcocholla01&theme=nightowl)](https://github.com/Marcocholla01/github-readme-activity-graph)
 ![Engagement](https://user-images.githubusercontent.com/87925630/210402743-1c31cb92-50fc-4a51-86ff-05b6c002399a.gif) I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 <hr>
 
