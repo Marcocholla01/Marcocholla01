@@ -1,18 +1,36 @@
 
  
-######  <p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=East+Sea+Dokdo&size=42&pause=1000&color=cyan&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+PAUL)](https://git.io/typing-svg) </p>
+<p align="center">
+  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+</p>
 
-![prof01](https://user-images.githubusercontent.com/87925630/210420109-d789dbd8-17cf-4025-8cf2-40bca8e49955.gif)
+<h1 align="center">Hi, I'm Paul Ocholla<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h3 font-size="20" align="center">A passionate MERN developer and a student from Kenya.</h3>
 
 
-#### <p align="center">
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Luacidia+Caligraphy&pause=1000&width=450&lines=I'm+a+Junior+Front-End+Software+Developer;Self+driven+UI%2FUX+Designer;I'm+passionate+and+creative;1%2B+Year(s)+of+experience;Currently+on+studing;Available+for+Hire)](https://git.io/typing-svg)</p>
- <hr>
+- :student: I’m currently persuing `BSc in Information Technology` at [`Zetech University`](https://www.zetech.ac.ke).
+- 🌱 I’m currently learning **Flask , Django & Superbase** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif"/>
 
-Hi, I'm Paul Ocholla, a Junior Front-End React Developer, Flutter and React-Native UI Developer and a Junior UI/UX Designer , .
-I am a motivated self-taught Front-End Developer , NodeJs Developer and a football enthusiast. I am also an open-source and Tech enthusiast. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
-<hr>
- 
+- 👯 I’m looking to collaborate on **React JS Framework**
+
+- 🤝 I’m looking for help with **Backend Design**
+
+- 👨‍💻 All of my projects are available [@Marcocholla01](https://github.com/Marcocholla01)
+
+- 💬 Ask me about **Frontend & Backend Engineering 😆**
+
+- ⚡ Fun fact **Coding is a passion and not profession.**
+- :technologist: I love using Software as a solution for every `Problem`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://marcocholla001.onrender.com/static/media/Paul%20Ouma%20Ocholla%20Resume.b62cc74564956277cdc8.pdf).
+- :boom: You can visit [MY WEBSITE](https://marcocholla001.onrender.com/).
+
+  
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=Marcocholla01&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+</p>
+
+---
  <img src="https://github.com/Marcocholla01/marcocholla/blob/main/personal%20design/img/star%20git.gif" >My GitHub Statistical Data<img>
  #### <h2>Overall Github Contributions </h2>
  [![Marcochollas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcocholla01&theme=nightowl&show_icons=true&include_all_commits=false&hide_rank=false)](https://github.com/Marcocholla01)
