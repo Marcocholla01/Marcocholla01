@@ -6,10 +6,16 @@
 
 <h1 align="center">Hi, I'm Paul Ocholla<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate MERN developer and a student from Kenya.</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Age-24-blue" />
+  <img src="https://img.shields.io/badge/Focus-Full Stack Engineering-blue" />
+  <img src="https://img.shields.io/badge/Lives-Nairobi Kenya-blue" />
+  <img src="https://img.shields.io/badge/Languages-English, Swahili & Dholuo-blue" />
+</p>
+<br/>
 
-
-- :student: I’m currently persuing `BSc in Information Technology` at [`Zetech University`](https://www.zetech.ac.ke).
-- 🌱 I’m currently learning **Flask , Django & Superbase** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif"/>
+- :student: I’m currently persuing `BSc in Information Technology` at [`Zetech University`](https://www.zetech.ac.ke). <img align="right" style="width:26rem; height:auto" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif"/>
+- 🌱 I’m currently learning **Flask , Django & Superbase** 
 
 - 👯 I’m looking to collaborate on **React JS Framework**
 
@@ -29,21 +35,20 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Marcocholla01&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 </p>
+ 
 
 ---
- <img src="https://github.com/Marcocholla01/marcocholla/blob/main/personal%20design/img/star%20git.gif" >My GitHub Statistical Data<img>
  #### <h2>Overall Github Contributions </h2>
- [![Marcochollas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcocholla01&theme=nightowl&show_icons=true&include_all_commits=false&hide_rank=false)](https://github.com/Marcocholla01)
+ | ![Marcocholla01's github stats](https://github-readme-stats.vercel.app/api?username=Marcocholla01&show_icons=true&theme=tokyonight) | ![Marcocholla01 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marcocholla01&theme=tokyonight) |
+ | --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcocholla01&theme=tokyonight) |  ![Github Stars](https://github-readme-stats.vercel.app/api?username=Marcocholla01&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
- #### <h2>General Language Statistics</h2>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcocholla01&size_weight=0.5&count_weight=0.5&theme=nightowl)](https://github.com/Marcocholla01/github-readme-stats)
- #### <h2>My Last 30 days Contribution Graph</h2>
- [![Marcocholla01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcocholla01&theme=nightowl)](https://github.com/Marcocholla01/github-readme-activity-graph)
-![Engagement](https://user-images.githubusercontent.com/87925630/210402743-1c31cb92-50fc-4a51-86ff-05b6c002399a.gif) I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+---
+<img style="width:2rem; height:auto" src="https://user-images.githubusercontent.com/87925630/210402743-1c31cb92-50fc-4a51-86ff-05b6c002399a.gif"/> I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 <hr>
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcocholla01&theme=nightowl&repo=Enjoy)](https://github.com/Marcocholla01/github-readme-stats)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcocholla01&repo=Enjoy&theme=nightowl)](https://github.com/Marcocholla01)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcocholla01&theme=nightowl&repo=Enjoy)](https://github.com/Marcocholla01/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcocholla01&repo=Enjoy&theme=nightowl)](https://github.com/Marcocholla01)
+ | --- | ---|
  
 
  
