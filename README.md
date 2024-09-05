@@ -29,7 +29,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://marcocholla001.onrender.com/static/media/Paul%20Ouma%20Ocholla%20Resume.b62cc74564956277cdc8.pdf).
-- :boom: You can visit [MY WEBSITE](https://marcocholla001.onrender.com/).
+- :boom: You can visit [MY WEBSITE](https://marcocholla.netlify.app/).
 
   
 <p align="center"> 
