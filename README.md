@@ -15,7 +15,9 @@
 <br/>
 
 - :student: I’m currently persuing `BSc in Information Technology` at [`Zetech University`](https://www.zetech.ac.ke). <img align="right" style="width:26rem; height:auto" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif"/>
-- 🌱 I’m currently learning **Flask , Django & Superbase** 
+- 🌱 I’m currently learning **Flask , Django & Superbase**
+
+- 👨‍💻 I’m currently working on **Ai Video Shorts Generator App** 
 
 - 👯 I’m looking to collaborate on **React JS Framework**
 
