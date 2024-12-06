@@ -5,9 +5,9 @@
 </p>
 
 <h1 align="center">Hi, I'm Paul Ocholla<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate MERN developer and a student from Kenya.</h3>
+<h3 font-size="20" align="center">A passionate WEB developer and a Graduate from Kenya.</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Age-23-blue" />
+<!-- <img src="https://img.shields.io/badge/Age-23-blue" /> -->
   <img src="https://img.shields.io/badge/Focus-Full Stack Engineering-blue" />
   <img src="https://img.shields.io/badge/Lives-Nairobi Kenya-blue" />
   <img src="https://img.shields.io/badge/Languages-English, Swahili & Dholuo-blue" />
